@@ -1,0 +1,10 @@
+soy estudiante de la Universidad de Ciencias Informaticas,pero ya en mi segundo año soy programador fullstack cubano,quiero salir del pais,necesito dinero,
+necesito crear cosas que me den dinero o irme para visas de trabajo :se de programacion en java ,javascript,typescript,python,se 
+obviamente html,css,trabajo con React+vite (javascript o typescript),tambien puedo trabajar con node.js,con express,en base de datos,se sql y puedo
+ trabajar con Postgresql,y experiencia trabajando en equipo con next.js,conocimeinto acerca de prompting de IA,buena logica algoritmica y dispuesto a 
+experimentar y aprender cosas nuevas y fascinantes(Me inclino ligeramente hacia el frontend),tambien tengo conocimientos de nivel medio en diseño web 
+y marketing digital.Primero,quiero q me respondas lo siguiente,es mejor con estos datos hacer un portafolio con css y html puro o con react?,dame una 
+respuesta y luego te sigo dando mas caracteristicas de lo que quiero lograr y como quiero que sea el diseño,ok?
+
+quisiera que tuviera un estilo oscuro y moderno,pero profesional a la vez ,obviamente con la posibilidad para el usuario de poder cambiarlo a modo claro
+,y que me dejes un epacio para poner una foto mia,tambien te puedo dar paginas que he hecho por ahora ,especialmente de javascript,typescript,html  y css
