@@ -97,27 +97,29 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: 'Dashboard Financiero',
-    description: 'Sistema ERP de gestión de cuentas por cobrar, movimientos bancarios, arqueos de caja y saldos. Interfaz con Material UI y DataGrid custom.',
-    tags: ['React', 'TypeScript', 'MUI', 'Node.js', 'PostgreSQL'],
-    github: 'https://github.com/tuusuario/xilef-finanzas',
-    demo: 'https://demo-xilef.vercel.app',
+    title: 'MyFitLife',
+    description: 'Pagina Web desarrollada con fines de establecer un control fisico al cliente aportando consejos de nutricion ,salud y ejercicios fisicos segun el nivel de dificultad',
+    tags: ['React','Vite', 'JavaScript'],
+    github: 'https://github.com/XarDevelop/MyFitLife.git',
+    demo: 'https://xardevelop.github.io/MyFitLife/',
+    image:'/src/assets/Captura de pantalla (30).png'
   },
   {
     id: 2,
-    title: 'E-commerce Fullstack',
-    description: 'Tienda online con carrito persistente, pasarela Stripe, autenticación JWT y panel de administración.',
-    tags: ['Next.js', 'Stripe', 'Prisma', 'PostgreSQL', 'Tailwind'],
-    github: 'https://github.com/tuusuario/ecommerce',
-    demo: 'https://tienda-demo.vercel.app',
+    title: 'CiberDevs',
+    description: 'Landing Page para compra venta de paginas web y servicios de despliegue digital para negocios',
+    tags: ['React','TypeScript','Vite', 'Node.js', 'Express.js', 'PostgreSQL', 'MUI'],
+    github: 'https://github.com/XarDevelop/CiberDevs-Service.git',
+    demo: 'https://ciberdevs.vercel.app/',
+    image:'/src/assets/a_clean_modern_promotional_poster_infographic_d.png'
   },
   {
     id: 3,
-    title: 'Landing Page Interactiva',
-    description: 'Página de producto con animaciones CSS avanzadas, scroll-driven effects y optimización Core Web Vitals.',
-    tags: ['Vite', 'TypeScript', 'GSAP', 'CSS Modules'],
-    github: 'https://github.com/tuusuario/landing-interactiva',
-    demo: 'https://landing-demo.vercel.app',
+    title: 'Sistema consultor de resoluciones y documentos Pinar del Rio',
+    description: 'Pagina web para intranet creada por peticion de la Empresa comercializadora de bienes y productos universales Pinar del Rio para gestionar sus documentos',
+    tags: ['React','Vite', 'JavaScript', 'Node.js', 'Express.js','PostgreSQL'],
+    github: 'https://github.com/XarDevelop/Universal-Pinar-del-Rio.git',
+    image:'/src/assets/Captura de pantalla (13).png'
   },
   {
     id: 4,
@@ -170,7 +172,7 @@ function Hero() {
           }}
         />
         <div className="photo-fallback" style={{ display: 'none' }}>
-          <span>F</span>
+          <img src="/src/assets/ChatGPT Image 20 jul 2026, 15_10_03.png" alt="" />
         </div>
       </div>
       <div className="hero-content">
